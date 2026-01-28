@@ -6,4 +6,7 @@ public class testgitjava {
 	//hello from github
 	/// bro i guvkrf vhsnrf iy
 	///
+	@Test
+	void Test(){
+	}
 }
